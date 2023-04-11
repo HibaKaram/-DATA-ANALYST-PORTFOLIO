@@ -1,6 +1,6 @@
 Welcome to my Data Analyst Portfolio!
 
-I am a data analyst passionate about turning complex data sets into valuable insights. With experience in both quantitative and qualitative analysis, I specialise in extracting and interpreting data to drive business decisions and improve organisational efficiency. 
+I am a BI data analyst passionate about turning complex data sets into valuable insights. With experience in both quantitative and qualitative analysis, I specialise in extracting and interpreting data to drive business decisions and improve organisational efficiency. 
 
 My expertise includes data modelling, statistical analysis, dashboard building, report writing and critical thinking. I am proficient in SQL, Excel, Power BI, and Tableau. I am dedicated to staying up-to-date with the latest analytical tools and techniques to ensure my work's highest accuracy and efficiency. 
 
