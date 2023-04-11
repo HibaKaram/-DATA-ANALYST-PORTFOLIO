@@ -1,12 +1,9 @@
-# -DATA-ANALYST-PORTFOLIO
 Welcome to my Data Analyst Portfolio!
 
-I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in Python, R, SQL, Excel, Power BI, and Tableau, and have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking.
+I am a data analyst passionate about turning complex data sets into valuable insights. With experience in both quantitative and qualitative analysis, I specialise in extracting and interpreting data to drive business decisions and improve organisational efficiency. 
 
-In this portfolio, I have included a variety of projects that showcase my data analytics skills. You will find examples of dashboards and reports I have created using various tools such as Power BI, Tableau, and Excel. These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action.
+My expertise includes data modelling, statistical analysis, dashboard building, report writing and critical thinking. I am proficient in SQL, Excel, Power BI, and Tableau. I am dedicated to staying up-to-date with the latest analytical tools and techniques to ensure my work's highest accuracy and efficiency. 
 
-In addition to my technical skills, I also pride myself on my critical thinking and problem-solving abilities. I am able to approach data analysis with a strategic mindset, and to identify key issues and opportunities in the data.
+In this portfolio, you will find examples of my data analysis projects, showcasing my data analytics skills. In addition, you will find examples of dashboards and reports I have created using various tools. These projects demonstrate my ability to analyse and present data clearly and visually appealingly, making it easy for decision-makers to understand the insights and take action.
 
-I am confident that my data analytics skills and experience make me an ideal candidate for any data analyst role. I hope you find my portfolio to be informative and engaging, and I welcome any opportunity to discuss my qualifications further with you.
-
-Thank you for considering me as a candidate, I look forward to hearing from you soon.
+Thank you for visiting, and I look forward to connecting with you!
